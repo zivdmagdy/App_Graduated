@@ -43,8 +43,5 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-lib/views/profile_page.dart
-lib/widget/text_field.dart
-lib/main.dart
 
 * text eol=lf
